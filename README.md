@@ -1,2 +1,3 @@
 # hello-world
-First repository :D
+
+This is a test repository. I am learning Github so bear with me!
